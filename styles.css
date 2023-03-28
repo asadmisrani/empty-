@@ -12,6 +12,7 @@ li {
   padding-left: 0;
 }
 
+/* main content starts here */
 .main-content {
   margin: 0;
   padding: 0;
@@ -21,6 +22,7 @@ li {
   position: relative;
   background: #fff;
 }
+/* main content ends here  */
 
 .app-bar {
   display: flex;
